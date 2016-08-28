@@ -1,1 +1,1 @@
-web: java -jar target/shouter-standalone.jar
+web: java $JVM_OPTS -jar target/shouter-standalone.jar
